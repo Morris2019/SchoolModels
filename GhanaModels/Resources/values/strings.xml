@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">GhanaModels</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="postbutton">Post</string>
+    <string name="Userimages">User Images</string>
+    <string name="signUp">SignUp</string>
+    <string name="cardPostImages">Post Images</string>
+    <string name="UserBiography">Enter Biography</string>
+    <string name="userfirstname">Enter First Name</string>
+    <string name="userlastname">Enter Last Name</string>
+    <string name="Username">Enter User Name </string>
+    <string name="telnumber">Enter Contact Number</string>
+    <string name="userage">Enter Your Age</string>
+    <string name="nationality"> Enter Nationality</string>
+    <string name="resetText">PLEASE INPUT YOUR E-MAIL ADDRESS</string>
+    <string name="message">Message</string>
+</resources>

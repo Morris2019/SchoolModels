@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570798612910",
+    "firebase_url": "https://ghanamodels-1e760.firebaseio.com",
+    "project_id": "ghanamodels-1e760",
+    "storage_bucket": "ghanamodels-1e760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570798612910:android:bd5aa9fbcd28476e59e83f",
+        "android_client_info": {
+          "package_name": "com.fenries.ghanamodels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570798612910-bbg7isuf7a1enine0e6vl7o0a7mbu05k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fenries.ghanamodels",
+            "certificate_hash": "c7b39f5fa13eda29d1b536409399e69b7a7230ba"
+          }
+        },
+        {
+          "client_id": "570798612910-n6cshogkbk1uv3mg5jnsr1g0lee0ivu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJuI__JMTIwvxSGHN4y9Edor2yA7UXPIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570798612910-n6cshogkbk1uv3mg5jnsr1g0lee0ivu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhanaModels", "GhanaModels\GhanaModels.csproj", "{267363C4-A0A9-4691-BAA0-0A2D943077FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267363C4-A0A9-4691-BAA0-0A2D943077FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267363C4-A0A9-4691-BAA0-0A2D943077FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267363C4-A0A9-4691-BAA0-0A2D943077FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267363C4-A0A9-4691-BAA0-0A2D943077FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
